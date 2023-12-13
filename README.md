@@ -1,5 +1,3 @@
-# directory-audit
-
 # Directory Audit Script
 
 This script performs various operations related to auditing and managing directories. It utilizes Supabase for storage and auditing purposes.
