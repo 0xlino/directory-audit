@@ -1,0 +1,15 @@
+{
+    "name": "mock",
+    "filechain": {
+        "audit": [
+            [
+                {
+                    "filename": "README.md",
+                    "path": "./mock/README.md"
+                }
+            ]
+        ]
+    },
+    "amountOfFiles": 1,
+    "bucket": "mock.zip"
+}
